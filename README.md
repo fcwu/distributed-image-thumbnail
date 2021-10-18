@@ -1,4 +1,4 @@
-![arch](arch.dawio.svg)
+![arch](arch.png)
 
 ## development
 
